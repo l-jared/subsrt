@@ -3,3 +3,4 @@
 
 - [Mehdi Benadda](https://github.com/mbenadda) <me@mbenadda.com>
 - [Papn Kukn](https://github.com/papnkukn)
+- [Hisman Yosika](https://github.com/dnjstlr555)
