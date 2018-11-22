@@ -1,6 +1,12 @@
 # subsrt
 
-Subtitle converter JavaScript library and command line tool.
+Universal timed text parser and converter JavaScript library and command line tool.
+
+## openfun/subsrt
+
+This is a fork of [the original subsrt](https://github.com/papnkukn/subsrt) published by [Papn Kukn](https://github.com/papnkukn).
+
+This fork is used in production and we intend to fix bugs and issues it may have and maintain it going forward.
 
 ## Getting Started
 
