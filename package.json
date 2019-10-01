@@ -1,7 +1,7 @@
 {
   "name": "@openfun/subsrt",
   "description": "Universal timed text parser and converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "France Université Numérique (https://github.com/openfun)",
   "contributors": [
     "Papn Kukn (https://github.com/papnkukn)",
