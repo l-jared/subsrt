@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/openfun/subsrt/issues"
+  },
+  "dependencies": {
+    "html-entities": "^2.3.3"
   }
 }
